@@ -346,6 +346,7 @@
 
 | Link | Description |
 | --- | --- |
+| [PastPage](https://chromewebstore.google.com/detail/pastpage-query-10+-web-ar/icpegbecignmplpkjjcegmjmfadpcpoo) | Recover broken or changed pages by querying the Wayback Machine and other web archives in parallel |
 | [Wayback Machine](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak) | Official Wayback Machine Extension - by the Internet Archive |
 | [Web archives ](https://chromewebstore.google.com/detail/web-archives/hkligngkgcpcolhcnkgccglchdafcnao) | View archived and cached versions of web pages on various search engines and web archives |
 | [Web archive ](https://github.com/husseinphp/web-archive) | Get information about current URL using http://archive.org CDX API |
