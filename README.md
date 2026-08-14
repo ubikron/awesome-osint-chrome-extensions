@@ -175,6 +175,7 @@
 | Link | Description |
 | --- | --- |
 | [Control panel for Twitter ](https://github.com/insin/control-panel-for-twitter) | Gives you more control over Twitter and adds missing features and UI improvements  |
+| [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) | Independent X (Twitter) data API for search, follower export, monitors, and MCP. |
 
 
 ### [](#idfinders)ID finders
