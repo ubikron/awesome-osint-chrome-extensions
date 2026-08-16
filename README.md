@@ -27,6 +27,7 @@
     - [Facebook](#facebook)
     - [Github](#github)
     - [Twitter](#twitter)
+    - [TikTok](#tiktok)
     - [ID finders](#idfinders)
 - [WEBSITE ANALYSIS](#domainanalysis)
     - [Domain analysis](#domainanalysis)
@@ -175,6 +176,16 @@
 | Link | Description |
 | --- | --- |
 | [Control panel for Twitter ](https://github.com/insin/control-panel-for-twitter) | Gives you more control over Twitter and adds missing features and UI improvements  |
+
+
+### [](#tiktok)TikTok
+
+| Link | Description |
+| --- | --- |
+| [AI TikTok Analyzer Pro](https://chromewebstore.google.com/detail/cgnemfnpkodogmbpdchgejohnnpgamho) | Sort a public profile's videos by views/likes/date, transcribe speech to text, translate and export public comments to CSV |
+| [KOLSprite](https://chromewebstore.google.com/detail/penohjgblobinadflplocjekaclnoemh) | Download, sort and analyse public TikTok profiles |
+| [myfaveTT](https://chromewebstore.google.com/detail/gmajiifkcmjkehmngbopoobeplhoegad) | Bulk-download the TikToks you have liked or favorited |
+| [Easy TikTok Video Downloader](https://chromewebstore.google.com/detail/fclobfmgolhdcfcmpbjahiiifilhamcg) | Save public TikTok videos, including bulk download from a profile |
 
 
 ### [](#idfinders)ID finders
