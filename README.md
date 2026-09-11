@@ -109,6 +109,7 @@
 | [Perceptual Image Analysis ](https://chromewebstore.google.com/detail/perceptual-image-analysis/gidmeabdffonnejjlkbglmppmfniakdf) | Quick access to image forensic tools |
 | [BetterViewer ](https://chromewebstore.google.com/detail/betterviewer/llcpfkbjgkpmapiidpnohffjmmnhpmpb) | Zoom, flip, rotate, pick colors, extract text and more |
 | [EXIF Viewer Pro ](https://chromewebstore.google.com/detail/exif-viewer-pro/mmbhfeiddhndihdjeganjggkmjapkffm) | Quick access to EXIF data of any image |
+| [Reverse Image Search Anywhere ](https://chromewebstore.google.com/detail/reverse-image-search-anyw/jmfdmdfnhkgbnpnpignhjcokpllbnhpp) | Searches one image across Google Lens, Yandex, Bing and TinEye at once, including images that normally cannot be reverse-searched — Instagram, Pinterest, canvas and blob URLs. Region capture, clipboard paste and face search. [Open source](https://github.com/tonic20/reverse-image-search-extension) |
 
 
 > [!NOTE] 
