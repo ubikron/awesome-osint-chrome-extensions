@@ -98,6 +98,7 @@
 | [Hive AI Detector ](https://chromewebstore.google.com/detail/hive-ai-detector/cmeikcgfecnhojcbfapbmpbjgllklcbi) | Check if text, images, audio or videos are AI generated |
 | [Polygraf AI Content Detector ](https://chromewebstore.google.com/detail/polygraf-ai-content-detec/cbngnnhgfljncoliddifmkgklphlojnf) | Advanced Plagiarism & ChatGPT Detector |
 | [Resemble AI Deepfake Detector](https://chromewebstore.google.com/detail/resemble-ai-deepfake-dete/ligejojghpehckjpfldljdcckgcbngle) | Scan web images, videos, and audio for AI-generated or manipulated media with verdicts and confidence scores |
+| [Sealed Rose AI Detector](https://chromewebstore.google.com/detail/sealed-rose-%E2%80%94-ai-image-vi/fhlgnogkkhjnjcclcllfnjbfndbklndn) | On-demand right-click analysis for deepfake video, synthetic images, and catfish verification |
 
 
 ### [](#images)Images
