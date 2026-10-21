@@ -259,6 +259,7 @@
 | --- | --- |
 | [Spoof geolocation ](https://chromewebstore.google.com/detail/spoof-geolocation/ihdobppgelceaoeojmhpmbnaljhhmhlc) | Change latitude and longitude to user-defined values  |
 | [Browser location simulator ](https://chromewebstore.google.com/detail/browser-location-simulato/cnblhicopliobgbagalnmagglehpgkdi) | Simulate browser location to another country or city all over the world |
+| [Spoof Me](https://chromewebstore.google.com/detail/spoof-me/onbjkmhileedchimkcmieeiomipdljki) | Make the browser look like it is in another country: timezone, language and user agent, with an optional mode that matches your VPN exit country |
 
 
 -----
