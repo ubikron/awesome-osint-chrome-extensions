@@ -206,6 +206,7 @@
 | [Similarweb ](https://chromewebstore.google.com/detail/similarweb-website-traffi/hoklmmgfnpapgjgcpechhaamimifchmp) |Website Traffic & SEO Checker |
 | [Terms of Service; Didn’t Read ](https://chromewebstore.google.com/detail/terms-of-service-didn%E2%80%99t-r/hjdoplcnndgiblooccencgcggcoihigg) | Get information about websites' terms of service and privacy policies, with ratings and summaries from ToSDR |
 | [Netcraft ](https://chromewebstore.google.com/detail/netcraft-extension/bmejphbfclcpmpohkggcjeibfilpamia) |Comprehensive site information and protection from phishing and malicious JavaScript when browsing the web  |
+| [Peekray](https://chromewebstore.google.com/detail/peekray/bmiolholodlhbdfecjihpkencpccknjp) | Shows where a link really goes when you hover it, and checks it against phishing and malware lists |
 
 
 ### [](#ipsearchengines)IP search engines
