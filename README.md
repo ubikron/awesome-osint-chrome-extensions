@@ -153,6 +153,7 @@
 
 | Link | Description |
 | --- | --- |
+| [iFollowTracker](https://chromewebstore.google.com/detail/ifollowtracker-for-instag/ijhkhodnjfdogpidfpamkmghhfkfopgh) | Research public Instagram profiles: recent follows, follower lists, and unfollow changes — no Instagram login |
 | [Insfo](https://chromewebstore.google.com/detail/insfo-ig-follower-export/bckleejkdhlponanidmjfjdigpahlado) | IG follower export & analysis tool  |
 | [Story Saver](https://chromewebstore.google.com/detail/story-saver/mafcolokinicfdmlidhaebadidhdehpk) |  Download & Save stories from Facebook, Instagram, and WhatsApp |
 
