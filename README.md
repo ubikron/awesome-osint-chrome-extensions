@@ -147,6 +147,7 @@
 | [YouTube Booster ](https://chromewebstore.google.com/detail/youtube-booster/dajnidicmkknmmbapmmmlemjdfolgjnf/related) | Video speed, audio normalization, OSINT, auto pause, looped #shorts, video markers, keywords, and more |
 | [YouTube Timestamp Comments ](https://chromewebstore.google.com/detail/youtube-timestamp-comment/khngjoedfeicfbjlcfmiigbokbnlibei/related) | Displays timestamp comments on YouTube  |
 | [Screenshot YouTube ](https://chromewebstore.google.com/detail/screenshot-youtube/gjoijpfmdhbjkkgnmahganhoinjjpohk/related?hl=en) | Take a screenshot of any YouTube video with one click |
+| [YouTube Transcript & AI Summary (GetYouTubeTranscript)](https://chromewebstore.google.com/detail/youtube-transcript-ai-sum/bbappnicmjmiliipjcmciaffiglmoekd) | Shows a timestamped, searchable transcript beside the YouTube player in any caption language the video has; click a line to jump to that moment, copy or export TXT/SRT/VTT |
 
 
 ### [](#instagram)Instagram
